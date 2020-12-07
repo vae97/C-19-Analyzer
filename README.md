@@ -19,8 +19,6 @@ Covid Tracker is built with,
 
 C-19-Analyzer is built for Windows Operating System using Electrone.Js.
 
-<img src="https://github.com/vae97/C-19-Analyzer/blob/main/logo/js.png" width="10%" ><img src="https://github.com/vae97/C-19-Analyzer/blob/main/logo/node.png" width="10%" >
-<br>
-<br>
+<img src="https://github.com/vae97/C-19-Analyzer/blob/main/logo/windows.png" width="30%" >
 <br>
 <img src="https://github.com/vae97/C-19-Analyzer/blob/main/logo/electron.png" width="30%" >
