@@ -1,0 +1,22 @@
+{
+  "name": "c-19-analyzer",
+  "version": "1.0.0",
+  "description": "Desktop Application for Analyze Covid 19 Situation in the world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vae97/C-19-Analyzer.git"
+  },
+  "author": "Akash Ekanayaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vae97/C-19-Analyzer/issues"
+  },
+  "homepage": "https://github.com/vae97/C-19-Analyzer#readme",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
