@@ -1,6 +1,6 @@
 # C-19-Analyzer
 
-C-19-Analyzer is powerd by <b> [Covid Tracker]('https://sl-covid-app.supunhd96.vercel.app')</b> web site Designed by Coded Life.
+C-19-Analyzer is powerd by <b> [Covid Tracker](https://sl-covid-app.supunhd96.vercel.app) </b> web site Designed by Coded Life.
 
 Covid Tracker is built with,
 
